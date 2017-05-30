@@ -1,0 +1,16 @@
+body {
+    font-family: -apple-system;
+}
+
+ul {
+    padding: 0;
+}
+
+li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: #d0021b;
+}

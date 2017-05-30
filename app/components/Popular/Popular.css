@@ -1,0 +1,17 @@
+.list-languages {
+    display: flex;
+    justify-content: center;
+}
+
+.list-languages li.selected {
+    margin: 10px;
+    font-weight: bold;
+    cursor: pointer;
+    color: #d0021b;
+}
+
+.list-languages li.unselected {
+    margin: 10px;
+    font-weight: bold;
+    cursor: pointer;
+}
